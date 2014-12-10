@@ -2,4 +2,4 @@ VS-DummyCode
 ============
 
 Dummy Code for GIT Integration
-this will be used for pusing Junk Code.
+this will be used for pushing Junk Code.
