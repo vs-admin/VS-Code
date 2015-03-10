@@ -28,13 +28,7 @@ namespace Sprint
                         this.Chart.ChartAreas[0].AxisX.LabelStyle.Font = this.Chart.ChartAreas[0].AxisY.LabelStyle.Font = font;
                     }
 
-                    this.Chart.Series[0].IsVisibleInLegend = true;
-                    this.Chart.Titleas[0].Text = "Sprint Status";
-                    divssMessage.Style.Add("display", "none");
-                    lbsslmsg.Text = "";
-                    this.Chart.Visible = true;
-                    this.Chart.ChartAreas[0].Visible = true;
-                    //AddLegend();
+                   
                 }
                
             }
