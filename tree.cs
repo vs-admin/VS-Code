@@ -40,6 +40,5 @@ namespace Sprint
             }
             catch (Exception ex)
             {
-                
             }
         }
