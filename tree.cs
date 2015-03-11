@@ -32,7 +32,7 @@ namespace Sprint
                 }
                
             }
-            catch (Exception ex)
+            catch (Exception e)
             {
             }
         }
