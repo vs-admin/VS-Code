@@ -6,7 +6,7 @@ using System.Collections.Generic;
 namespace Sprint
 {
     [ToolboxItemAttribute(false)]
-    [Serializable]
+
     public class SprintP : ChartWebPart
     {
         protected Label lblmsg = null;
